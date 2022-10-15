@@ -1,0 +1,2 @@
+# Indeks ljudskog razvoja i stopa ukupnog fertiliteta, Srbija i zemlje Evropske unije, 1990-2019.
+Smanjenje fertiliteta tokom 1990-ih širom Evrope pratio je porast indeksa ljudskog razvoja, osim u Srbiji. Panevropski porast ovog indeksa zahvatio je i našu zemlju u 21. veku, uz dalje smanjenje fertiliteta. Tokom proteklih 30 godina došlo je do homogenizacije kontinenta u pogledu oba pokazatelja – sve zemlje su u zoni veoma visokog ljudskog razvoja (indeks >0,8) uz fertilitet nedovoljan za zamenu generacija (stopa <1,9).
